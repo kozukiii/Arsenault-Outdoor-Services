@@ -159,6 +159,6 @@ if (slides.length > 1) {
     current = (current + 1) % slides.length;
     slides[current].classList.add('is-active');
   };
-  setInterval(advance, 5000);
+  setInterval(advance, 3200);
 }
 
