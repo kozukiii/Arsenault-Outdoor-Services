@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#256b3c"/>
+      <stop offset="1" stop-color="#14331f"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <text x="32" y="30" text-anchor="middle" dominant-baseline="central"
+        font-family="'Oswald','Arial Narrow',Arial,sans-serif" font-weight="700"
+        font-size="23" letter-spacing="0.5" fill="#ffffff">AOS</text>
+  <rect x="20" y="45" width="24" height="3" rx="1.5" fill="#8fc09a"/>
+</svg>

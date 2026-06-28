@@ -34,14 +34,16 @@ const io = new IntersectionObserver(
 );
 document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
 
-// Hero background slideshow — crossfade through the slides every few seconds
+// Hero background slideshow — starts immediately on load (no scroll/interaction
+// gate), then crossfades through the slides every 5 seconds.
 const slides = document.querySelectorAll('#heroSlides .hero-slide');
 if (slides.length > 1) {
   let current = 0;
-  setInterval(() => {
+  const advance = () => {
     slides[current].classList.remove('is-active');
     current = (current + 1) % slides.length;
     slides[current].classList.add('is-active');
-  }, 5000);
+  };
+  setInterval(advance, 5000);
 }
 
