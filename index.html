@@ -31,11 +31,15 @@
       /* Hero slideshow: crossfading background images */
       .hero-slide{
         position:absolute; inset:0;
-        background-size:cover; background-position:center 32%;
+        background-size:cover; background-position:center 32%; background-repeat:no-repeat;
         opacity:0; transition:opacity 1.1s ease-in-out;
         will-change:opacity;
       }
       .hero-slide.is-active{ opacity:1; }
+      /* On phones, show the whole photo (no side-cropping) instead of filling */
+      @media (max-width:640px){
+        .hero-slide{ background-size:contain; background-position:center; }
+      }
       /* Green gradient that the images fade down into */
       .hero-fade{
         position:absolute; inset:0;
