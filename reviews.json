@@ -2,7 +2,7 @@
   "rating": 5,
   "userRatingCount": 5,
   "mapsUri": "https://maps.google.com/?cid=1683658141018384512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-  "updated": "2026-08-09T09:03:20.057Z",
+  "updated": "2026-08-10T09:49:00.607Z",
   "reviews": [
     {
       "author": "John Engels",
@@ -14,11 +14,20 @@
       "text": "Just an overall well-done job. Great customer service and execution from the kid."
     },
     {
+      "author": "Kate Weisser",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKIO9on9fXVfQQ9WrSruA8NFE12OGVsz0aFfalgafsT7uRYgA=s128-c0x00000000-cc-rp-mo",
+      "profileUri": "https://www.google.com/maps/contrib/109218738864792072458/reviews",
+      "rating": 5,
+      "relativeTime": "a month ago",
+      "publishTime": "2026-06-18T01:55:33.049350568Z",
+      "text": "great service and communication"
+    },
+    {
       "author": "B B",
       "photo": "https://lh3.googleusercontent.com/a/ACg8ocLtnquLVr5k-M4wu8ZgyC6R818N3lEoWdF37ApLFHtSr1wR2oGD=s128-c0x00000000-cc-rp-mo",
       "profileUri": "https://www.google.com/maps/contrib/115810371937899627073/reviews",
       "rating": 5,
-      "relativeTime": "a week ago",
+      "relativeTime": "2 weeks ago",
       "publishTime": "2026-07-27T01:55:48.420730233Z",
       "text": "Does such quality work, very personable experience and can tell he cares about his work at a good price."
     },
@@ -39,15 +48,6 @@
       "relativeTime": "a month ago",
       "publishTime": "2026-06-18T04:44:52.513563503Z",
       "text": "Did really great work on my house. Very good at communicating at putting the customer first."
-    },
-    {
-      "author": "Kate Weisser",
-      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKIO9on9fXVfQQ9WrSruA8NFE12OGVsz0aFfalgafsT7uRYgA=s128-c0x00000000-cc-rp-mo",
-      "profileUri": "https://www.google.com/maps/contrib/109218738864792072458/reviews",
-      "rating": 5,
-      "relativeTime": "a month ago",
-      "publishTime": "2026-06-18T01:55:33.049350568Z",
-      "text": "great service and communication"
     }
   ]
 }
