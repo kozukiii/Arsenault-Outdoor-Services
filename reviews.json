@@ -1,8 +1,8 @@
 {
   "rating": 5,
-  "userRatingCount": 6,
+  "userRatingCount": 7,
   "mapsUri": "https://maps.google.com/?cid=1683658141018384512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-  "updated": "2026-08-27T19:04:56.554Z",
+  "updated": "2026-08-28T20:12:27.194Z",
   "reviews": [
     {
       "author": "John Gobel",
@@ -32,6 +32,15 @@
       "text": "great service and communication"
     },
     {
+      "author": "Tyson Hughes",
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjV3T-5lpcDIqnstTw574FnPI3tJ5QVUwDHD_GTcG1Cg307LYadQ=s128-c0x00000000-cc-rp-mo",
+      "profileUri": "https://www.google.com/maps/contrib/116774522951191066740/reviews",
+      "rating": 5,
+      "relativeTime": "in the last week",
+      "publishTime": "2026-08-28T17:29:30.121324761Z",
+      "text": "Takes care of my neighbors lawn. Looks great"
+    },
+    {
       "author": "Claudia Adriazola",
       "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWFmVIojphr5fjtrSRjkMNcHYFYnBpsdxj4bpWSo3JwkruNJLdXQg=s128-c0x00000000-cc-rp-mo-ba2",
       "profileUri": "https://www.google.com/maps/contrib/100748763764084400336/reviews",
@@ -39,15 +48,6 @@
       "relativeTime": "in the last week",
       "publishTime": "2026-08-24T02:50:36.816122496Z",
       "text": "Highly recommend Arsenault Outdoor Services! They did a fantastic job on my yard. Professional, reliable, and great attention to detail. My yard looks amazing, and I’m very happy with the results!"
-    },
-    {
-      "author": "B B",
-      "photo": "https://lh3.googleusercontent.com/a/ACg8ocLtnquLVr5k-M4wu8ZgyC6R818N3lEoWdF37ApLFHtSr1wR2oGD=s128-c0x00000000-cc-rp-mo",
-      "profileUri": "https://www.google.com/maps/contrib/115810371937899627073/reviews",
-      "rating": 5,
-      "relativeTime": "a month ago",
-      "publishTime": "2026-07-27T01:55:48.420730233Z",
-      "text": "Does such quality work, very personable experience and can tell he cares about his work at a good price."
     }
   ]
 }
