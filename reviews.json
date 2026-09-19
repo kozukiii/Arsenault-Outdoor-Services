@@ -1,8 +1,8 @@
 {
   "rating": 5,
-  "userRatingCount": 8,
+  "userRatingCount": 10,
   "mapsUri": "https://maps.google.com/?cid=1683658141018384512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-  "updated": "2026-09-18T12:58:37.284Z",
+  "updated": "2026-09-19T12:30:46.325Z",
   "reviews": [
     {
       "author": "John Gobel",
@@ -23,6 +23,15 @@
       "text": "Just an overall well-done job. Great customer service and execution from the kid."
     },
     {
+      "author": "Tyson Hughes",
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjV3T-5lpcDIqnstTw574FnPI3tJ5QVUwDHD_GTcG1Cg307LYadQ=s128-c0x00000000-cc-rp-mo",
+      "profileUri": "https://www.google.com/maps/contrib/116774522951191066740/reviews",
+      "rating": 5,
+      "relativeTime": "3 weeks ago",
+      "publishTime": "2026-08-28T17:29:30.121324761Z",
+      "text": "Takes care of my neighbors lawn. Looks great"
+    },
+    {
       "author": "Kate Weisser",
       "photo": "https://lh3.googleusercontent.com/a/ACg8ocKIO9on9fXVfQQ9WrSruA8NFE12OGVsz0aFfalgafsT7uRYgA=s128-c0x00000000-cc-rp-mo",
       "profileUri": "https://www.google.com/maps/contrib/109218738864792072458/reviews",
@@ -32,22 +41,13 @@
       "text": "great service and communication"
     },
     {
-      "author": "Francisco Perez-Guerra",
-      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUHuyQUzUqTJ-tTsgb4iEJHbXgm5pjRbC5H-gwdCNsio3rsL7-E=s128-c0x00000000-cc-rp-mo",
-      "profileUri": "https://www.google.com/maps/contrib/106048142394433902189/reviews",
+      "author": "Landen Lorang",
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX7L56QgbnIYQUlbNK5RwqDri92i7Zj94xil5KXz8Qe0GhudKU8=s128-c0x00000000-cc-rp-mo",
+      "profileUri": "https://www.google.com/maps/contrib/103520447989931517404/reviews",
       "rating": 5,
       "relativeTime": "in the last week",
-      "publishTime": "2026-09-17T02:34:40.866755831Z",
-      "text": "Matt did a great job with two projects. His attention to detail, suggestions, and follow-up are outstanding. Great rates too!"
-    },
-    {
-      "author": "Tyson Hughes",
-      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjV3T-5lpcDIqnstTw574FnPI3tJ5QVUwDHD_GTcG1Cg307LYadQ=s128-c0x00000000-cc-rp-mo",
-      "profileUri": "https://www.google.com/maps/contrib/116774522951191066740/reviews",
-      "rating": 5,
-      "relativeTime": "2 weeks ago",
-      "publishTime": "2026-08-28T17:29:30.121324761Z",
-      "text": "Takes care of my neighbors lawn. Looks great"
+      "publishTime": "2026-09-19T02:33:00.539885196Z",
+      "text": "Matt is an amazing respectful young man, that takes priority in his work. He knows his way with his business and I see a bright future for the guy!"
     }
   ]
 }
